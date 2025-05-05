@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/JEZE-PORT/static/css/main.7ac3727e.css",
-    "main.js": "/JEZE-PORT/static/js/main.ed1b7f49.js",
+    "main.css": "/JEZE-PORT/static/css/main.9a0baa70.css",
+    "main.js": "/JEZE-PORT/static/js/main.d3abe166.js",
     "static/media/Gl6CDElbwAAw4fS.png": "/JEZE-PORT/static/media/Gl6CDElbwAAw4fS.42fdfffa246ae7143ca6.png",
     "static/media/TotLS.mp4": "/JEZE-PORT/static/media/TotLS.35f209e5b24f601021ae.mp4",
     "index.html": "/JEZE-PORT/index.html",
-    "main.7ac3727e.css.map": "/JEZE-PORT/static/css/main.7ac3727e.css.map",
-    "main.ed1b7f49.js.map": "/JEZE-PORT/static/js/main.ed1b7f49.js.map"
+    "main.9a0baa70.css.map": "/JEZE-PORT/static/css/main.9a0baa70.css.map",
+    "main.d3abe166.js.map": "/JEZE-PORT/static/js/main.d3abe166.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ac3727e.css",
-    "static/js/main.ed1b7f49.js"
+    "static/css/main.9a0baa70.css",
+    "static/js/main.d3abe166.js"
   ]
 }
